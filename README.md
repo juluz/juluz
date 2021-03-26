@@ -1,7 +1,7 @@
 
 ### Hi there! I'm Julia Luz 👋
 
-I'm from Brazil. I'm working as Data Analyst since 2019 at Olx Brasil.
+I'm from Brazil. I'm working as Data Analyst since 2019.
 I'm currently learning Python, R, SQL, Spark, Statistic.
 
 Would you like to find me?
