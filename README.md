@@ -10,5 +10,5 @@ Would you like to find me?
 
 [Medium](https://medium.com/@juliamoreira.luz)
 
-"In god we trust, all others bring data" (W. Edwards Deming)
+"In god we trust, all others bring data" (W. Edwards Deming) <br>
 "Without data, you're just another person with an opinion" (W. Edwards Deming)
