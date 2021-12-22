@@ -4,19 +4,19 @@
 I'm from Brazil. I'm working as Data Analyst since 2019.
 I'm currently learning Python, R, SQL, Spark, Statistic.
 
-## Analysis Steps Tips
+### Analysis Steps Tips
 
-1- Think about the story you are creating: What is my goal? What do I need to answer or test?
-2- How my data is structured?
-3- Import data
-4- How to handle each variable?
-5- What transformation do I need to do?
+1- Think about the story you are creating: What is my goal? What do I need to answer or test? <br>
+2- How my data is structured? <br>
+3- Import data <br>
+4- How to handle each variable? <br>
+5- What transformation do I need to do? <br>
 
-6- Create a data dictionary with all variables
-7- At first calculate the basic metrics of mean, median, mode, asymmetry, and kurtosis
-8- Think about how answering the main question with data: Do I need a histogram? Another metric or table?
+6- Create a data dictionary with all variables <br>
+7- At first calculate the basic metrics of mean, median, mode, asymmetry, and kurtosis <br>
+8- Think about how answering the main question with data: Do I need a histogram? Another metric or table? <br>
 
-#### Create a file with useful codes of your preferred programming language: Python, R, Julia, and update whenever you discover new commands. It will be your ally in the next analysis.
+#### -> Create a file with useful codes of your preferred programming language: Python, R, Julia, and update whenever you discover new commands. It will be your ally in the next analysis.
 
 
 
