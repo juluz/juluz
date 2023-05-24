@@ -3,6 +3,7 @@
 
 I'm from Brazil. I'm working as Data Analyst since 2019.
 I'm currently learning Python, R, SQL, Spark, Statistic.
+I live in Canada and work as a business analyst. I am completing a post-degree program at Langara College in data analytics.
 
 Would you like to find me?
 
